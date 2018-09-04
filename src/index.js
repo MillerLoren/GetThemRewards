@@ -17,6 +17,7 @@ function createWindow () {
     win = null
   })
 }
+
 require('update-electron-app')();
 
 

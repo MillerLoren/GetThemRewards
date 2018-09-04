@@ -1,7 +1,9 @@
 {
     "src": "C:/Users/Natalie/GetThemRewards/dist/getthemrewards-win32-x64/",
     "dest": "C:/Users/Natalie/GetThemRewards/dist/installers/",
+    "name": "GetThemRewards",
+    "productName": "Get Them Rewards",
     "icon": "C:/Users/Natalie/GetThemRewards/icon.ico",
     "animation": "C:/Users/Natalie/GetThemRewards/loading.gif",
-    "noMSI": false
+    "noMsi": true
 }
